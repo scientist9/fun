@@ -1,0 +1,4 @@
+mkdir Mount1 Mount2
+sudo mount -t vboxsf D_DRIVE Mount1
+sudo  mount -t vboxsf F_DRIVE Mount2
+

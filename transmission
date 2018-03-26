@@ -1,0 +1,3 @@
+ sudo services transmission-daemon stop
+ sudo services transmission-daemon start
+
